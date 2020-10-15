@@ -12,7 +12,7 @@
     const slider = document.querySelectorAll('.slider');
     M.Slider.init(slider, {
       indicators: false,
-      height: 600,
+      height: 990,
       transition: 600,
       interval: 3000
     });

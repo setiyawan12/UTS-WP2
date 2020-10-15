@@ -19,11 +19,11 @@
     <nav class="light-blue lighten-2">
       <div class="container">
         <div class="nav-wrapper">
-          <a href="#!" class="brand-logo">PLUG_IN</a>
+          <a href="dashboard" class="brand-logo">PLUG_IN</a>
           <a href="#" data-target="mobile-nav" class="sidenav-trigger"><i class="material-icons">menu</i></a>
           <ul class="right hide-on-med-and-down">
-            <li><a href="sass.html">About US</a></li>
-            <li><a href="badges.html">Clients</a></li>
+            <li><a href="dashboard">Home</a></li>
+            <li><a href="anggota">Anggota</a></li>
             <li><a href="badges.html">Services</a></li>
             <li><a href="badges.html">Portofolio</a></li>
             <li><a href="badges.html">Contact Us</a></li>

@@ -59,9 +59,10 @@
 
   <!-- Ourclienstt -->
   <div class="parallax-container">
-    <div class="parallax"><img src="<?php base_url()?>assets/img/slider/4.png"></div>
+      <div class="parallax">
+        <img src="<?php base_url()?>assets/img/slider/4.png">
+        </div>
     <div class="container clients">
-
       <h3 class="center light white-text">OurClients</h3>
       <div class="row">
         <div class="col m4 s12 center">
