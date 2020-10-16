@@ -1,22 +1,21 @@
 <div class="slider">
-    <ul class="slides">
+    <ul class="slides fullscreen">
       <li>
-        <img src="<?php base_url()?>assets/img/slider/1.png"> <!-- random image -->
+        <img src="<?php base_url()?>assets/img/slider/1.png" class=""> <!-- random image -->
         <div class="caption center-align">
           <h3>This is our big Tagline!</h3>
           <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
         </div>
       </li>
       <li>
-        <img src="<?php base_url()?>assets/img/slider/2.png"> <!-- random image -->
+        <img src="<?php base_url()?>assets/img/slider/2.png" class=""> <!-- random image -->
         <div class="caption center-align">
           <h3>This is our big Tagline!</h3>
           <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
         </div>
       </li>
-
       <li>
-        <img src="<?php base_url()?>assets/img/slider/3.png"> <!-- random image -->
+        <img src="<?php base_url()?>assets/img/slider/3.png" class=""> <!-- random image -->
         <div class="caption center-align">
           <h3>This is our big Tagline!</h3>
           <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
@@ -123,7 +122,7 @@
           <img src="<?php base_url()?>assets/img/portfolio/1.png" class="responsive-img materialboxed" alt="">
         </div>
         <div class="col m3 s12">
-          <img src="<?php base_url()?>assets/img/portfolio/2.png" class="responsive-img materialboxed" alt="">
+          <img src="<?php base_url()?>assets/img/portfolio/5.png" class="responsive-img materialboxed" alt="">
         </div>
         <div class="col m3 s12">
           <img src="<?php base_url()?>assets/img/portfolio/3.png" class="responsive-img materialboxed" alt="">
@@ -134,7 +133,7 @@
       </div>
       <div class="row">
         <div class="col m3 s12">
-          <img src="<?php base_url()?>assets/img/portfolio/5.png" class="responsive-img materialboxed" alt="">
+          <img src="<?php base_url()?>assets/img/portfolio/3.png" class="responsive-img materialboxed" alt="">
         </div>
         <div class="col m3 s12">
           <img src="<?php base_url()?>assets/img/portfolio/4.png" class="responsive-img materialboxed" alt="">
