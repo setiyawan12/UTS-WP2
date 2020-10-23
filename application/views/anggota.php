@@ -3,7 +3,7 @@
 
 
 <div class="container">
-<table class="striped">
+<table class="striped centered bordered">
         <thead>
           <tr>
               <th>No</th>
@@ -12,6 +12,7 @@
               <th>Email</th>
               <th>Nomer</th>
               <th>Divisi</th>
+              <th>Detail</th>
           </tr>
         </thead>
         <tbody class="table-dark">
@@ -25,6 +26,7 @@
              <td><?php echo $row->email; ?></td>
             <td><?php echo $row->nomer; ?></td>
             <td><?php echo $row->divisi; ?></td>
+            <td><button onclick="window.location.href='<?= base_url('Myprofile');?>'" type="button" class="btn btn-primary">Detail</button></td>
           </tr>
          <?php endforeach; ?>
         </tbody>

@@ -82,7 +82,7 @@
       <div class="row">
         <h3 class="light center grey-text text-darken-3">Our Services</h3>
         <div class="col m4 s12">
-          <div class="card-panel center">
+          <div class="card-panel center blue accent-1">
             <i class="material-icons medium">desktop_windows</i>
             <h5>WEB DEVELOPMENT</h5>
             <P>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus ab maiores ipsam mollitia inventore
@@ -91,7 +91,7 @@
           </div>
         </div>
         <div class="col m4 s12">
-          <div class="card-panel center">
+          <div class="card-panel center blue accent-1">
             <i class="material-icons medium">developer_mode</i>
             <h5>MOBILE DEVELOPMENT</h5>
             <P>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus ab maiores ipsam mollitia inventore
@@ -100,7 +100,7 @@
           </div>
         </div>
         <div class="col m4 s12">
-          <div class="card-panel center">
+          <div class="card-panel center blue accent-1">
             <i class="material-icons medium">games</i>
             <h5>GAME DEVELOPMENT</h5>
             <P>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus ab maiores ipsam mollitia inventore

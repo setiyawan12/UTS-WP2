@@ -8,13 +8,12 @@
 
   <!--Import materialize.css-->
   <link type="text/css" rel="stylesheet" href="<?php base_url()?>assets/css/materialize.min.css"/>
-
   <!--Let browser know website is optimized for mobile-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 </head>
 <body>
 <div class="navbar-fixed">
-    <nav class="light-blue lighten-2">
+    <nav class="light-blue">
       <div class="container">
         <div class="nav-wrapper">
           <a href="dashboard" class="brand-logo">PLUG_IN</a>

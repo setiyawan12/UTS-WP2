@@ -1,5 +1,5 @@
 <footer class="light-blue lighten-2 darken-text center">
-    <h5>Web Proggaming PLUGIN. Copyright 2019.</h5>
+    <h5>Web Proggaming PLUGIN. Copyright 2020.</h5>
   </footer>
   <!--JavaScript at end of body for optimized loading-->
   <!-- <script type="text/javascript" src="js/materialize.min.js"></script> -->
