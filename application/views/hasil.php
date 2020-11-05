@@ -1,10 +1,3 @@
-<!-- <!DOCTYPE html>
-<html>
-<head>
-<title>Display Records</title>
-</head>
-
-<body> -->
 <table width="600" border="1" cellspacing="5" cellpadding="5">
   <tr style="background:#CCC">
     <th>Sr No</th>
@@ -31,6 +24,3 @@
   }
    ?>
 </table>
-
-<!-- </body>
-</html> -->
