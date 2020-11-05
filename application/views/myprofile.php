@@ -27,7 +27,7 @@
 
                 <!--PERSONAL LOGO-->
                 <div class="logo-flat">
-                    <img alt="personal-logo" class="img-responsive1" src="<?php base_url()?>assets/flatrica/images/1.png">
+                    <img alt="personal-logo" class="img-responsive" src="<?php base_url()?>assets/flatrica/images/1.png">
                 </div>
                 <br>
 
@@ -44,8 +44,8 @@
             </div>
 
             <!-- MENU BUTTON -->
-            <div id="menuToggle">
                 <div class="toggle-normal">
+            <div id="menuToggle">
                     <i class="material-icons top-bar">remove</i>
                     <i class="material-icons middle-bar">remove</i>
                     <i class="material-icons bottom-bar">remove</i>
@@ -61,8 +61,9 @@
 
     <!--==========================================
                    V-CARD
-===========================================-->
     <div id="v-card-holder" class="section">
+===========================================-->
+<div id="v-card-holder" class="section">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-xs-12">
@@ -72,22 +73,12 @@
 
                         <!-- PROFILE PICTURE -->
                         <div id="profile" class="right">
-                            <img alt="profile-image" class="img-responsive1" src="<?php base_url()?>assets/flatrica/images/profile.jpg">
+                            <img alt="profile-image" class="img-responsive" src="<?php base_url()?>assets/flatrica/images/profile.jpg">
                             <div class="slant"></div>
 
-                            <!--EMPTY PLUS BUTTON-->
                             <div class="btn-floating btn-large add-btn"><i class="material-icons">add</i></div>
-
-
                         </div>
-                        <!--VIDEO CLOSE BUTTON-->
-                        <!--<div id="close-btn" class="btn-floating icon-close">
-                        <i class="fa fa-close"></i>
-                    </div>-->
-
                         <div class="card-content">
-
-                            <!-- NAME & STATUS -->
                             <div class="info-headings">
                                 <h4 class="text-uppercase left">Yayang Setiyawan</h4>
                                 <h6 class="text-capitalize left">Software Engineer & UI/UX Expert</h6>
@@ -136,17 +127,13 @@
                                 <a href="#" class="social  btn-floating orange darken-3"><i class="fa fa-rss"></i></a>
                             </div>
                         </div>
-                        <!--HTML 5 VIDEO-->
-                        <!-- <video id="html-video" class="video" poster="images/poster/poster.jpg" controls>
-                        <source src="videos/b.webm" type="video/webm">
-                        <source src="videos/a.mp4" type="video/mp4">
-                    </video>-->
 
                     </div>
                 </div>
             </div>
         </div>
     </div>
+    <div>
     <!--==========================================
                    EDUCATION
 ===========================================-->
